@@ -103,6 +103,11 @@ button:nth-child(1){
     background: #5DB9EE;
     color: #262525;
 }
+button:nth-child(1) a{
+    text-decoration: none;
+    background: #5DB9EE;
+    color: #262525;
+}
 
 button:nth-child(2){
     
